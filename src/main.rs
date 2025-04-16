@@ -1,3 +1,3 @@
 fn main() {
-    println("starting to run gitpeek...");
+    println!("starting to run gitpeek...");
 }
